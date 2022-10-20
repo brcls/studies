@@ -1,0 +1,10 @@
+[run]
+source = ./codigo
+
+[report]
+exclude_lines = 
+    def __str__
+    def nome
+
+[html]
+directory = coverage_relatorio_html
