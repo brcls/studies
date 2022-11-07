@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1667699148783" clover="3.2.0">
+  <project timestamp="1667699148783" name="All files">
+    <metrics statements="18" coveredstatements="12" conditionals="2" coveredconditionals="0" methods="10" coveredmethods="7" elements="30" coveredelements="19" complexity="0" loc="18" ncloc="18" packages="2" files="3" classes="3"/>
+    <package name="5-nodejs-testes-unitarios-e-de-integracao">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="index.js" path="/home/brcls/Documentos/studies/node-studies/alura/5-nodejs-testes-unitarios-e-de-integracao/index.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="5-nodejs-testes-unitarios-e-de-integracao.carrinho">
+      <metrics statements="16" coveredstatements="10" conditionals="2" coveredconditionals="0" methods="8" coveredmethods="5"/>
+      <file name="carrinho.js" path="/home/brcls/Documentos/studies/node-studies/alura/5-nodejs-testes-unitarios-e-de-integracao/carrinho/carrinho.js">
+        <metrics statements="12" coveredstatements="6" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="3"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+      <file name="item.js" path="/home/brcls/Documentos/studies/node-studies/alura/5-nodejs-testes-unitarios-e-de-integracao/carrinho/item.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
